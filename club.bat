@@ -1,6 +1,6 @@
 @echo off
 
-start club.mp3
+start Shawty.mp3
 
 :club
 	color 10
